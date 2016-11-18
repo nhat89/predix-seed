@@ -35,3 +35,17 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+public/bower_components
+public/polymer-loader.vulcanized.html
+test-target
+public/index.html
+public/index-inline.css
+public/**/*-styles.html
+main.min.css
+.idea
+*.log
+.DS_Store
+temp
+dist
+.github/
